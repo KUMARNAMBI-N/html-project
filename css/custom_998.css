@@ -1,0 +1,12 @@
+div#navItems {
+    position: absolute;
+    top: 40px;
+    right: 80px;
+}
+#ummat_Carosuel {
+    width: 100%;
+}
+
+#ummat_card{
+    justify-content: start;
+    }

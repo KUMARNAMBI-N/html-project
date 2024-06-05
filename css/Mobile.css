@@ -1,0 +1,39 @@
+.container-fluid.whitebg {
+    width: -webkit-fill-available;
+}
+
+ul.menu-container {
+    position: absolute;
+    flex-direction: column;
+    top: 0px;
+    background-color: aliceblue;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    box-shadow: 5px 10px 8px 10px #888888;
+    padding-top: 30px;
+}
+.search-container {
+    display: none;
+}
+.right-align .menu-bar {
+    display: block;
+}
+
+.logo-Img {
+    width: 90px;
+    height: 70px;
+}
+.close-menu {
+    z-index: 99;
+    display: none;
+}
+.close-menu.open {
+    display: block;
+}
+
+.horizontal-menu {
+    display: none;
+}
+.horizontal-menu.open {
+    display: block;
+}
